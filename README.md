@@ -1,4 +1,4 @@
-# Group-APIs-Project
+# NBA 2019-2020 Season Player Analysis
 1 Page Project Proposal
  Team Members: Adithya Venkatesh, Darryl Baynes, Patrick Hennessey
  Project Description/Outline:
